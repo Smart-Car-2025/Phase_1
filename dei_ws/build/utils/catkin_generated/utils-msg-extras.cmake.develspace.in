@@ -1,0 +1,2 @@
+set(utils_MESSAGE_FILES "/home/smark/bfmc_2022/dei_ws/src/utils/msg/IMU.msg;/home/smark/bfmc_2022/dei_ws/src/utils/msg/localisation.msg;/home/smark/bfmc_2022/dei_ws/src/utils/msg/vehicles.msg;/home/smark/bfmc_2022/dei_ws/src/utils/msg/environmental.msg;/home/smark/bfmc_2022/dei_ws/src/utils/msg/Log.msg;/home/smark/bfmc_2022/dei_ws/src/utils/msg/TopicInfo.msg")
+set(utils_SERVICE_FILES "/home/smark/bfmc_2022/dei_ws/src/utils/srv/subscribing.srv;/home/smark/bfmc_2022/dei_ws/src/utils/srv/RequestParam.srv")

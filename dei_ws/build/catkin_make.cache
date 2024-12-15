@@ -1,0 +1,2 @@
+action:control:input:output:perception:rosserial_python:utils
+-DCATKIN_DEVEL_PREFIX=/home/smark/bfmc/dei_ws/devel -DCMAKE_INSTALL_PREFIX=/home/smark/bfmc/dei_ws/install -G Unix Makefiles

@@ -1,0 +1,8 @@
+prefix=/home/smark/bfmc_2022/dei_ws/devel
+
+Name: utils
+Description: Description of utils
+Version: 0.0.0
+Cflags: -I/home/smark/bfmc_2022/dei_ws/devel/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime

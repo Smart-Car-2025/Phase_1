@@ -1,0 +1,8 @@
+prefix=/home/smark/bfmc_2022/dei_ws/install
+
+Name: output
+Description: Description of output
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

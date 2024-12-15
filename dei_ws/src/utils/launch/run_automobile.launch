@@ -1,0 +1,8 @@
+<launch>
+    
+
+    <node pkg="output" type="serialNODE.py" 			name="serialNODE"  				output="screen"/>
+    <?ignore <node pkg="output" type="environmentalNODE.py" 		name="environmentalNODE"  		output="screen"/> ?>
+    <node pkg="input" type="sonarNODE.py"        name="sonarNODE"  			    	output="screen"/>
+    <node pkg="input" type="sonarNODE1.py"        name="sonarNODE1"  			    	output="screen"/>
+</launch>
